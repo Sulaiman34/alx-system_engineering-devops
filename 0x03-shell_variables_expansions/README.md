@@ -1,0 +1,1 @@
+alias shell init project
